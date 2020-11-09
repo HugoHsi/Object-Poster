@@ -1,0 +1,127 @@
+body{
+	background-color: black;
+}
+.hmlk{
+	position: fixed;
+	z-index: 2;
+}
+
+.ani{
+	animation: shake .2s infinite;
+}
+
+.one{
+	width: 10%;
+	height: auto;
+	position:fixed;
+	bottom: 0px;
+	left: 400px;
+}
+
+.two{
+	width: 10%;
+	height: auto;
+	position:fixed;
+	bottom: 0px;
+	left: 600px;
+}
+
+.three{
+	width: 10%;
+	height: auto;
+	position:fixed;
+	bottom: 0px;
+	left: 800px;
+}
+
+.four{
+	width: 10%;
+	height: auto;
+	position:fixed;
+	bottom: 0px;
+	left: 1000px;
+}
+
+.five{
+	width: 10%;
+	height: auto;
+	position:fixed;
+	bottom: 150px;
+	left: 500px;
+}
+
+.six{
+	width: 10%;
+	height: auto;
+	position:fixed;
+	bottom: 150px;
+	left: 700px;
+}
+
+.seven{
+	width: 10%;
+	height: auto;
+	position:fixed;
+	bottom: 150px;
+	left: 900px;
+}
+
+.eight{
+	width: 10%;
+	height: auto;
+	position:fixed;
+	bottom: 300px;
+	left: 600px;
+}
+
+.nine{
+	width: 10%;
+	height: auto;
+	position:fixed;
+	bottom: 300px;
+	left: 800px;
+}
+
+.ten{
+	width: 10%;
+	height: auto;
+	position:fixed;
+	bottom: 450px;
+	left: 700px;
+}
+
+.trigger{
+	position: absolute;
+	width: 100%;
+	height: 2000px;
+	left: 0px;
+	top: 750px;
+}
+
+.blckrect{
+	position: absolute;
+	width: 100%;
+	height: 3105px;
+	background-color: black;
+	top: 0px;
+	left: 0px;
+	opacity: 0%;
+	pointer-events: none;
+	transition: .3s;
+	transition-delay: .3s;
+	z-index: 2;
+}
+
+.trigger:hover .blckrect{
+	opacity: 100%;
+	transition: .2s;
+	transition-delay: .1s;
+}
+
+.final{
+	position: absolute;
+	width: 100%;
+	top: 3000px;
+	left: 0px;
+	z-index: 1;
+}

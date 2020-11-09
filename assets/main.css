@@ -1,0 +1,74 @@
+body{
+	background-color: black;
+	background-image: url("ball.png");
+	background-size: 1500px;
+}
+
+.hmlk{
+	position: fixed;
+}
+
+.btn{
+	border: none;
+	background: none;
+	outline: 2px solid black;
+	padding: 14px 60px;
+	font-family: helvetica;
+	font-size: 100px;
+	cursor: pointer;
+}
+
+.btn:hover{
+	background: black;
+	color: white;
+	transition: .5s ease-out;
+}
+
+.chsv{
+	margin: 0;
+	position: absolute;
+  	left: 50%;
+  	top: 35%;
+  	transform: translate(-50%, 0%);
+}
+
+.clr{
+	margin: 0;
+	position: absolute;
+  	left: 50%;
+  	top: 60%;
+  	transform: translate(-50%, 0%);
+}
+
+.size{
+	margin: 0;
+	position: absolute;
+  	left: 50%;
+  	top: 85%;
+  	transform: translate(-50%, 0%);
+}
+
+.sqsh{
+	margin: 0;
+	position: absolute;
+  	left: 50%;
+  	top: 110%;
+  	transform: translate(-50%, 0%);
+}
+
+.stbl{
+	margin: 0;
+	position: absolute;
+  	left: 50%;
+  	top: 135%;
+  	transform: translate(-50%, 0%);
+}
+
+.scrl{
+	position: absolute;
+	top: 160%;
+	width: 1px;
+	height: 1px;
+	color: black;
+
+}

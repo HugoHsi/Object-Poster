@@ -1,0 +1,216 @@
+body{
+	background-image: url(ball.png);
+	background-size: 200px;
+	background-color: black;
+}
+
+img{
+	width: 200px;
+	height: auto;
+}
+
+.hmlk{
+	width: 400px;
+	height: auto;
+}
+
+.bckrec{
+	position: absolute;
+	width: 400px;
+	height: 200px;
+	background-color: black;
+	left: 0px;
+	top: 0px;
+	z-index: -1;
+}
+
+.opa{
+	opacity: 0%;
+	
+}
+
+.opa:hover{
+	opacity: 100%;
+	transition: .2s;
+}
+
+.three{
+	position: absolute;
+	top:0px;
+	left: 400px;
+}
+
+.four{
+	position: absolute;
+	top:0px;
+	left: 600px;
+}
+
+.five{
+	position: absolute;
+	top:0px;
+	left: 800px;
+}
+
+.six{
+	position: absolute;
+	top:0px;
+	left: 1000px;
+}
+
+.seven{
+	position: absolute;
+	top:0px;
+	left: 1200px;
+}
+
+.eight{
+	position: absolute;
+	top:0px;
+	left: 1400px;
+}
+
+.nine{
+	position: absolute;
+	top:200px;
+	left: 0px;
+}
+
+.ten{
+	position: absolute;
+	top:200px;
+	left: 200px;
+}
+
+.eleven{
+	position: absolute;
+	top:200px;
+	left: 400px;
+}
+
+.twelve{
+	position: absolute;
+	top:200px;
+	left: 600px;
+}
+
+.thirteen{
+	position: absolute;
+	top:200px;
+	left: 800px;
+}
+
+.fourteen{
+	position: absolute;
+	top:200px;
+	left: 1000px;
+}
+
+.fifteen{
+	position: absolute;
+	top:200px;
+	left: 1200px;
+}
+
+.sixteen{
+	position: absolute;
+	top:200px;
+	left: 1400px;
+}
+
+.seventeen{
+	position: absolute;
+	top:400px;
+	left: 0px;
+}
+
+.eighteen{
+	position: absolute;
+	top:400px;
+	left: 200px;
+}
+
+.nineteen{
+	position: absolute;
+	top:400px;
+	left: 400px;
+}
+
+.twenty{
+	position: absolute;
+	top:400px;
+	left: 600px;
+}
+
+.twentyone{
+	position: absolute;
+	top:400px;
+	left: 800px;
+}
+
+.twentytwo{
+	position: absolute;
+	top:400px;
+	left: 1000px;
+}
+
+.twentythree{
+	position: absolute;
+	top:400px;
+	left: 1200px;
+}
+
+.twentyfour{
+	position: absolute;
+	top:400px;
+	left: 1400px;
+}
+
+.twentyfive{
+	position: absolute;
+	top:600px;
+	left: 0px;
+}
+
+.twentysix{
+	position: absolute;
+	top:600px;
+	left: 200px;
+}
+
+.twentyseven{
+	position: absolute;
+	top:600px;
+	left: 400px;
+}
+
+.twentyeight{
+	position: absolute;
+	top:600px;
+	left: 600px;
+}
+
+.twentynine{
+	position: absolute;
+	top:600px;
+	left: 800px;
+}
+
+.thirty{
+	position: absolute;
+	top:600px;
+	left: 1000px;
+}
+
+.thirtyone{
+	position: absolute;
+	top:600px;
+	left: 1200px;
+}
+
+.thirtytwo{
+	position: absolute;
+	top:600px;
+	left: 1400px;
+}
+

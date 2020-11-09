@@ -1,0 +1,175 @@
+img{
+	width: 100%;
+	height: auto;
+}
+
+body{
+	background-color: black;
+}
+
+.hmlk{
+	width:33%;
+	height:auto;
+}
+
+.trigger1{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	position: absolute;
+	left: 284px;
+	top: 468px;
+
+}
+
+.one{
+	transition: 1s all ease;
+	margin: 0;
+	display: initial;
+	pointer-events: none;
+	transition-delay: .5s;
+}
+
+.trigger1:hover .one{
+	transform: translate(2000px, -500px);
+	transition: .3s ease-out;
+}
+
+.trigger2{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	position: absolute;
+	left: 77px;
+	top: 161px;
+
+}
+
+.two{
+	transition: 1s all ease;
+	margin: 0;
+	display: initial;
+	pointer-events: none;
+	transition-delay: .5s;
+}
+
+.trigger2:hover .two{
+	transform: translate(2000px, 0px);
+	transition: .3s ease-out;
+}
+
+.trigger3{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	position: absolute;
+	left: 847px;
+	top: 431px;
+
+}
+
+.three{
+	transition: 1s all ease;
+	margin: 0;
+	display: initial;
+	pointer-events: none;
+	transition-delay: .5s;
+}
+
+.trigger3:hover .three{
+	transform: translate(-2000px, -500px);
+	transition: .3s ease-out;
+}
+
+.trigger4{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	position: absolute;
+	left: 424px;
+	top: 2px;
+
+}
+
+.four{
+	transition: 1s all ease;
+	margin: 0;
+	display: initial;
+	pointer-events: none;
+	transition-delay: .5s;
+}
+
+.trigger4:hover .four{
+	transform: translate(400px, 2000px);
+	transition: .3s ease-out;
+}
+
+.trigger5{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	position: absolute;
+	left: 640px;
+	top: 291px;
+
+}
+
+.five{
+	transition: 1s all ease;
+	margin: 0;
+	display: initial;
+	pointer-events: none;
+	transition-delay: .5s;
+}
+
+.trigger5:hover .five{
+	transform: translate(-2000px, -300px);
+	transition: .3s ease-out;
+}
+
+.trigger6{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	position: absolute;
+	left: 790px;
+	top: 6px;
+
+}
+
+.six{
+	transition: 1s all ease;
+	margin: 0;
+	display: initial;
+	pointer-events: none;
+	transition-delay: .5s;
+}
+
+.trigger6:hover .six{
+	transform: translate(-2000px, 900px);
+	transition: .3s ease-out;
+}
+
+.trigger7{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	position: absolute;
+	left: 1200px;
+	top: 200px;
+
+}
+
+.seven{
+	transition: 1s all ease;
+	margin: 0;
+	display: initial;
+	pointer-events: none;
+	transition-delay: .5s;
+}
+
+.trigger7:hover .seven{
+	transform: translate(-2000px, 200px);
+	transition: .3s ease-out;
+}
+

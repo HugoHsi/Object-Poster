@@ -1,0 +1,28 @@
+body{
+	background-image: url("bkgimg.png");
+	background-size: 100%;
+	background-color: black;
+	background-attachment: fixed;
+}
+
+.bckrect{
+	position: absolute;
+	width: 200px;
+	height: 600px;
+	background-color: black;
+	left: 1100px;
+	top: 150px;
+}
+
+.scrl{
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	background-color: black;
+	top: 2000px;
+
+}
+
+.hmlk{
+	position: fixed;
+}
